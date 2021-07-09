@@ -27,3 +27,12 @@
     Instagram.
     Spotify.
     Amazon.
+
+
+# Disadvantages of Java
+
+    Java is slow and has a poor performance. Java is memory-consuming and significantly slower than native languages such as C or C++.
+    Java provides not so attractive look and feels of the GUI.
+    Java provides no backup facility.
+    Java requires significant memory space.
+    Verbose and Complex codes.
