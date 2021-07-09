@@ -17,7 +17,7 @@
     Cloud-based Applications.
     IoT Applications.**
     
-    # 9742 companies reportedly use Java in their tech stacks, including Uber, Airbnb, and Netflix.
+   # 9742 companies reportedly use Java in their tech stacks, including Uber, Airbnb, and Netflix.
 
     Uber.
     Airbnb.
